@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/elliebirthday/elliebirthda
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Introduction
+
+# A Trip Down Memory Lane...
+
+## May 1, 2017
+I am in moz. I like my host family and house. My name means "he does" in Portuguese.
+
+In Portuguese: "Ele" means he and it pronounced how we say "ellie." So people keep telling stories about people and all I can here is "ellie *rapid Portuguese* ellie *rapid Portuguese*." And interestingly enough "faz" means does and is pronounced how we say "fahs." 
+
+So ellie fahs sounds exactly like "ele faz" meaning "he does" which is said quite a lot especially during these first few weeks of introductions. For the record "ela faz" means "she does" and that kinda sounds like my name too and I feel all empowered by that one. 
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
